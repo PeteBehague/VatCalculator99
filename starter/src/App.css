@@ -47,6 +47,11 @@
   padding: 10px;
 }
 
+.red-border{
+  border: 3px solid #FF0000;
+  padding: 10px;
+}
+
 .header{
   padding: 10px;
 }
